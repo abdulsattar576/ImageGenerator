@@ -1,0 +1,5 @@
+Style	Example Prompt
+Photorealistic	*"A hyper-detailed portrait of an elderly wizard, realistic skin texture, 8K resolution, studio lighting, shallow depth of field"*
+Anime	"Cute anime girl with pink hair in a school uniform, Studio Ghibli style, soft pastel colors, bokeh background"
+Watercolor	"Parisian street scene, loose watercolor style, visible brush strokes, muted earth tones, morning light"
+Pixel Art	*"16-bit RPG game character, warrior with glowing sword, retro pixel art, limited 32-color palette"*
