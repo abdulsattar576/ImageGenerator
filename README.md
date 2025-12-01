@@ -215,7 +215,4 @@ MIT License. Free to use, modify, and distribute.
 
 ---
 
-If you want, I can also **create a single downloadable `README_ImageGenerator.md` file** ready to save and open in VS Code so you don’t have to copy-paste.  
-
-Do you want me to do that?
-```
+ 
